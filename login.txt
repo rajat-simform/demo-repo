@@ -2,3 +2,4 @@ Login file in login_feature
 Login file created.
 Feature-1
 feature-2
+Login changed after rebase.
