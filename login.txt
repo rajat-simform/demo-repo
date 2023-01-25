@@ -1,1 +1,14 @@
+<<<<<<< HEAD
 fdgfghvhty
+=======
+Login file in login_feature
+Login file created.
+herre some more code 
+added
+feature-2
+Login changed after rebase.
+
+
+
+
+>>>>>>> 9e1e7b1 (bug: T015_bugFix)
